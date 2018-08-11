@@ -1,0 +1,19 @@
+.Header{
+    height: 100px;
+}
+.Conten{
+    height: 600px;
+}
+.Foter{
+    height: 100;
+}
+a{
+    color: white;
+
+}
+.bong:hover{
+    border-bottom: 0.25rem solid red;
+}
+p{
+    text-align: center
+}
