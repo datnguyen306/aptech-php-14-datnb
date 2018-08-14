@@ -1,0 +1,26 @@
+.Conten{
+    height: 600px;
+}
+.Header{
+    height: 500px;
+}
+hr{
+    height: 2px;
+    color: black;
+}
+.Nav{
+    text-decoration:none;
+}
+li{
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+}
+h1:hover{
+    color: red;
+    text-decoration-line: underline;
+}
+p{
+    border: 1px;
+    border-radius: 3px;
+}
