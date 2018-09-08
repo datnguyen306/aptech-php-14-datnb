@@ -1,0 +1,11 @@
+.chieu-cao {
+  height: 100px;
+  background-color: blue;
+}
+
+@media (min-width: 768px) {
+  .chieu-cao {
+    height: 500px;
+    background-color: red;
+  }
+}

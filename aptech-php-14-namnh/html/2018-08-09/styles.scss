@@ -1,0 +1,19 @@
+.Header {
+  &__container {
+    &--height {
+      height: 500px;
+    }
+  }
+  &__row {
+    &--height {
+      height: 200px;
+    }
+    &--sad {
+      background-color: blue;
+    }
+    &__column {
+      height: 200px;
+      color: red;
+    }
+  }
+}
